@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/template/header.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/models/AppUser.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/registration/register.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/controllers/Mobilization.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/ppa/add_ppa.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/controllers/Deployment.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/controllers/Student.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/models/MobilizationModel.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/deployment/redeploy_student.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/controllers/Batch.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/models/StateModel.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/deployment/deploy_student.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/models/InstitutionModel.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/controllers/Admin.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/controllers/PPA.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/models/DeploymentModel.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/models/PPAModel.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/template/print_deployment.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/deployment/view_deployed_status.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/deployment/view_deployed_list.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/ppa/edit_ppa.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/models/BatchModel.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/models/StudentModel.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/ppa/view_ppa.php</file>
+            <file>file:/C:/xampp/htdocs/others/student_project/nysc/application/views/template/print_green_card.php</file>
+        </group>
+    </open-files>
+</project-private>
