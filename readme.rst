@@ -6,7 +6,7 @@ This project simulates the entire process involved in the management of corp mem
 ###################
 How to Install
 ###################
-Create a database named nysc and then import the file db/nysc.sql into the newly created database. Continue to test the functionalities of the application.
+Create a database named nysc and then import the file db/nysc.sql into the newly created database. Continue to try the functionalities of the application.
 
 ###################
 Final note
