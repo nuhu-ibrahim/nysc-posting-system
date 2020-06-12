@@ -139,7 +139,7 @@ CREATE TABLE `ppa_list` (
 --
 
 INSERT INTO `ppa_list` (`ppa_id`, `state_id`, `ppa_name`, `ppa_address`, `capacity`) VALUES
-(1, 22, 'Nuwesa House', 'Unguan Muazu Kaduna', 12);
+(1, 22, 'Nuwesa House', 'Kaduna', 12);
 
 -- --------------------------------------------------------
 
